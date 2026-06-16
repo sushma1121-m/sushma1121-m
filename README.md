@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sushma 👋
 
-<!--
-**sushma1121-m/sushma1121-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Science and Engineering Student
 
-Here are some ideas to get you started:
+💻 Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+- Data Structures and Algorithms
+- MERN Stack Development
+- Git & GitHub
+
+🚀 Projects:
+- DSA Practice
+- Web Development Projects
+- Java Projects
+
+🛠 Skills:
+- Python
+- Java
+- HTML
+- CSS
+- JavaScript
+- MongoDB
+- Git & GitHub
+
+🔗 Connect with me:
+- LinkedIn: https://www.linkedin.com/in/sushma-m-05b6162bb
